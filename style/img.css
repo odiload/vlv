@@ -1,0 +1,10 @@
+.www{
+    padding: 5px;
+}
+
+@media screen{
+    .www{
+width: 397px;
+height: 538px;
+    }
+}

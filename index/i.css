@@ -1,0 +1,60 @@
+.d{
+   
+    width: 658px;
+    height: 698px;
+}
+
+.tex{
+
+     color:coral;
+    padding: 5px;
+}
+
+text .video{
+width: 809px ;
+}
+
+
+.g{
+    font-size: 25px;
+}
+
+
+a{
+
+color: white;
+padding: 10px;
+
+
+}
+.www{
+    padding: 5px;
+   width: 249px;
+height: 538px;
+}
+.u{
+    width: 90px;
+    height: 100px;
+}
+  
+.video{
+ 
+    
+}
+
+@media screen {
+.www{
+    width: 249px;
+    height: 538px;
+}
+    img{
+    width: 655px;
+    height: 538px;
+
+}
+}
+
+
+
+
+
